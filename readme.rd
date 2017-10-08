@@ -1,3 +1,5 @@
+# 这是一个关于shiro的demo，从http://www.sojson.com/shiro 这里找来的，使用了，可以，但是有问题
+
 本项目详细介绍请看：http://www.sojson.com/shiro （强烈推荐）
 
 Demo已经部署到线上，地址是http://shiro.itboy.net，
